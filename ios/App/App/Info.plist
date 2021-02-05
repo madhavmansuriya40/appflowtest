@@ -79,5 +79,9 @@
     <string>Production</string>
     <key>IonUpdateMethod</key>
     <string>auto</string>
+    <key>IonMaxVersions</key>
+    <string>2</string>
+    <key>IonMinBackgroundDuration</key>
+    <string>3</string>
   </dict>
 </plist>

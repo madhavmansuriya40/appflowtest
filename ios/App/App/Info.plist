@@ -78,6 +78,6 @@
     <key>IonChannelName</key>
     <string>Production</string>
     <key>IonUpdateMethod</key>
-    <string>auto</string>
+    <string>background</string>
   </dict>
 </plist>

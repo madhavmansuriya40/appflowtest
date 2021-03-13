@@ -76,8 +76,8 @@
     <key>IonAppId</key>
     <string>fcbadc18</string>
     <key>IonChannelName</key>
-    <string>Production</string>
+    <string>production</string>
     <key>IonUpdateMethod</key>
-    <string>background</string>
+    <string>auto</string>
   </dict>
 </plist>

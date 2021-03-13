@@ -76,7 +76,7 @@
     <key>IonAppId</key>
     <string>fcbadc18</string>
     <key>IonChannelName</key>
-    <string>Production</string>
+    <string>production</string>
     <key>IonUpdateMethod</key>
     <string>auto</string>
   </dict>

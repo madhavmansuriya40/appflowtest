@@ -74,9 +74,9 @@
     <key>UIViewControllerBasedStatusBarAppearance</key>
     <true />
     <key>IonAppId</key>
-    <string>fcbadc18</string>
+    <string>df263b4d</string>
     <key>IonChannelName</key>
-    <string>production</string>
+    <string>Production</string>
     <key>IonUpdateMethod</key>
     <string>auto</string>
   </dict>
